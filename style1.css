@@ -1,0 +1,94 @@
+
+*{padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+
+#head{ background-color: aliceblue;
+    width: 350px;
+    height: 480px;
+    text-align: center;
+    padding-top: 1%;
+    margin-top: 130px;
+    margin-left: 40%;
+    border-radius: 1%;
+    padding: 2.5%;
+    
+   
+}
+#main{
+    padding: 12%;
+}
+#user{
+    text-align: left;
+    margin-left: 10%;
+}
+#pass{
+    text-align: left;
+    margin-top: 10%;
+    margin-left: 10%;
+    
+}
+#log{
+    margin-top: 10%;
+}
+#but{
+    background-color: blue;
+    color: aliceblue;
+    padding: 2%;
+    padding-left: 20%;
+    padding-right: 20%;
+    border-radius: 35%;
+
+    
+}
+
+
+
+
+#email{
+   text-align: left;
+   margin-top: 10%;
+   margin-left: 10%;
+}
+#two{
+   text-align: left;
+   margin-top: 10%;
+   margin-left: 10%;
+}
+#three{
+   text-align: left;
+   margin-top: 10%;
+   margin-left: 10%;
+}
+
+    t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
